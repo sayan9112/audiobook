@@ -5,7 +5,6 @@ project name: audiobook
 abstract:      WHAT IS THE PROJECT ABOUT?
                • If you're a lazy reader, make your computer read for you
                • If you're a crazy reader, make the process smarter
-               
                By this project, the user will hear a pdf instead of reading.
                It's a audio book.
 
