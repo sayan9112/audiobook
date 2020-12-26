@@ -10,4 +10,11 @@ for num in range(8, pages):
     text = page.extractText()
     speaker.say(text)
     speaker.runAndWait()
+    
+
+#author: Sayan Mukherjee (kalbhairab)
+#mail: almighty.kalbhairab@gmail.com
+#linkedIn: https://www.linkedin.com/in/sayan-mukherjee-7845421a7/
+#github: github.com/sayan9112 (Personal Website)    
+            
  
